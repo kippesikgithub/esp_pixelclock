@@ -8,4 +8,4 @@ Max7219 32x8 Pixel display (https://www.tinytronics.nl/shop/nl/verlichting/matri
 I added a mirror sticker on the front (optional)  
 
 #### EspHome code
-esp_pixel_clock.yaml
+esp_pixelclock.yaml
